@@ -81,6 +81,7 @@ public class Main {
         float daysWeek = middleDay * 7;
         System.out.println("Итого за 7 дней примерно: " + daysWeek);
 
-
+        //Задание 8
+        //,,,,,,
     }
 }
